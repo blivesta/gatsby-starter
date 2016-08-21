@@ -1,0 +1,7 @@
+siteTitle = "Gatsby Starter"
+siteUrl = "http://git.blivesta.com/gatsby-starter"
+description = "Gatsby starter for creating a websites using React.js"
+linkPrefix = "/gatsby-starter"
+githubUrl = "https://github.com/blivesta/gatsby-starter"
+ga = "UA-50883754-1"
+facebookAppId = "1001771893195804"
